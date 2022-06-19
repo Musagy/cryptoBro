@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"importHelpers": true,
+		"jsx": "preserve",
+		"lib": ["esnext", "dom", "dom.iterable", "scripthost"],
+		"module": "esnext",
+		"moduleResolution": "node",
+		"noEmit": true,
+		"noImplicitAny": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"strict": true,
+		"target": "esnext",
+		"types": ["node", "jest"]
+	},
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}
