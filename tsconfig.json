@@ -16,7 +16,7 @@
 		"sourceMap": true,
 		"strict": true,
 		"target": "esnext",
-		"types": ["node", "jest"]
+		"types": ["node"]
 	},
   "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
   "references": [{ "path": "./tsconfig.node.json" }]
