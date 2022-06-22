@@ -1,6 +1,6 @@
 
 ### Ejercicio rápido
-# Videos favoritos
+# CryptoBro
 
 ![preview](https://i.imgur.com/0GNJgxF.png)
 
